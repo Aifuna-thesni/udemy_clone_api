@@ -67,7 +67,7 @@ The API documentation is available at:
 ## Test Credentials
 
 ### Admin User
-- Email: aifunathesni@gmail.com
+- Email: newadmin@example.com
 - Password: admin123
 
 ### Student User
