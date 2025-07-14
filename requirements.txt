@@ -6,3 +6,4 @@ pillow==10.2.0
 drf-yasg==1.21.7
 python-dotenv==1.0.1
 psycopg2-binary==2.9.9 
+setuptools>=65.5.0
